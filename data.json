@@ -1,0 +1,32 @@
+[
+    {
+        "name": "zizi",
+        "number": "",
+        "email": ""
+    },
+    {
+        "name": "aiai",
+        "number": "050-3333333",
+        "email": "aiai@gmail.com"
+    },
+    {
+        "name": "pipi",
+        "number": "054-3333333",
+        "email": "pipi@gmail.com"
+    },
+    {
+        "name": "lili",
+        "number": "053-3333333",
+        "email": "lili@gmail.com"
+    },
+    {
+        "name": "kiki",
+        "number": "052333333",
+        "email": "kiki@gmail.com"
+    },
+    {
+        "name": "mimi",
+        "number": "0599999999",
+        "email": "mimi@gmail.com"
+    }
+]
